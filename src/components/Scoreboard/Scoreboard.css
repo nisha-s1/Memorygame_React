@@ -1,0 +1,17 @@
+
+  .scoreboard {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: #080404;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .scoreboard h2 {
+    margin: 0;
+    color: #080404;
+  }
+  
